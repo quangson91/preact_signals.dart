@@ -20,7 +20,6 @@ code_builder:packages/code_builder/
 collection:packages/collection/
 convert:packages/convert/
 crypto:packages/crypto/
-dart_signals:packages/dart_signals/
 dart_style:packages/dart_style/
 example:packages/example/
 file:packages/file/
@@ -48,6 +47,7 @@ pubspec_parse:packages/pubspec_parse/
 scratch_space:packages/scratch_space/
 shelf:packages/shelf/
 shelf_web_socket:packages/shelf_web_socket/
+signals:packages/signals/
 source_maps:packages/source_maps/
 source_span:packages/source_span/
 stack_trace:packages/stack_trace/
